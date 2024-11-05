@@ -1,2 +1,2 @@
-orderTracking/core/migrations
-orderTracking/users/migrations
+/core/migrations
+/users/migrations
